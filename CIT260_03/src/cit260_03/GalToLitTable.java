@@ -4,7 +4,7 @@
  * This program displays a conversion
  * table of gallons to liters.
  * 
- * Tjis program is called GalToLitTable.java
+ * This program is called GalToLitTable.java
  */
 class GalToLitTable {
     public static void main(String args[]){
